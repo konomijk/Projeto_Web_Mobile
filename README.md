@@ -6,15 +6,14 @@ Preencha cada seção de forma clara e objetiva, utilizando textos, imagens e ex
 ---
 
 ## 💡 Processo de Ideação
-<!-- Explique como surgiu a ideia do projeto, quais problemas ou oportunidades foram identificados e como o grupo chegou à proposta atual -->
-Exemplo:  
+<!-- Explique como surgiu a ideia do projeto, quais problemas ou oportunidades foram identificados e como o grupo chegou à proposta atual -->  
 "A ideia surgiu a partir da observação de dificuldades perante a competitividade com supermercados da região que possuem uma forma rapida e sucinta de realizar pedidos online, assim diminuindo a busca pela frutaria."
 
 ---
 
 ## 📌 Título do Projeto
 <!-- Insira aqui o título do projeto extensionista -->
-Exemplo: "Site Frutaria Jingo"
+"Site Frutaria Jingo"
 
 ---
 
@@ -33,14 +32,14 @@ Exemplo: "Site Frutaria Jingo"
 
 ## 🖼️ Protótipo Inicial
 <!-- Inclua imagens ou links das telas, fluxos ou mockups do protótipo inicial -->
-Exemplo de inclusão de imagem:  
+
 ![Protótipo da Tela Inicial](imagens/prototipo-inicial.png)
 
 ---
 
 ## 🌍 Caráter Extensionista
 <!-- Explique como o projeto contribui para a comunidade externa e qual é a sua relevância social -->
-Exemplo:  
+ 
 "O projeto busca ajudar um pequeno comercio familiar no interior de São Paulo a expandir seus possiveis clientes com ajuda da tecnologia e facilidade de acesso a um site oficial."
 
 ---
@@ -49,8 +48,8 @@ Exemplo:
 <!-- Indique quem é a pessoa ou organização parceira que colabora com o projeto nas ações extensionistas -->
 - Organização: Frutaria Jingo  
 - Representante: Marcos Akira Konomi (Responsavel por compra e venda de mercadoria e dono)
-                 Isabel Yoshime Konomi(Dona da loja) 
-                 Marcia Akemi Konomi (Administradora e dona)
+- Representante: Isabel Yoshime Konomi(Dona da loja) 
+- Representante: Marcia Akemi Konomi (Administradora e dona)
 
 ---
 
