@@ -33,7 +33,7 @@ Preencha cada seção de forma clara e objetiva, utilizando textos, imagens e ex
 ## 🖼️ Protótipo Inicial
 <!-- Inclua imagens ou links das telas, fluxos ou mockups do protótipo inicial -->
 
-![Protótipo da Tela Inicial](imagens/prototipo-inicial.png)
+![Protótipo da Tela Inicial](wireframefrutaria.png)
 
 ---
 
