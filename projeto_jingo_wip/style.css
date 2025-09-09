@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #111;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background: #4caf50;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  text-align: center;
+  border-bottom: 3px solid #388e3c;
+}
+
+.menu {
+  margin-top: 10px;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.botao-whatsapp {
+  background: #25d366;
+  padding: 5px 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+footer {
+  background: #ddd;
+  padding: 15px;
+  text-align: center;
+  font-size: 14px;
+  border-top: 3px solid #aaa;
+  margin-top: auto;
+}
+
+.hero-container,
+.parceiras-container,
+.sobre-nos-container,
+.endereco-container {
+  margin: 20px auto;
+  padding: 15px;
+  text-align: center;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.hero-container img,
+.hero-image img,
+.parceira-img img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+  }
+
+  .menu a {
+    display: block;
+    margin: 8px 0;
+  }
+
+  .hero-container,
+  .sobre-nos-container,
+  .endereco-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero-container img,
+  .hero-image img,
+  .parceira-img img {
+    width: 100%;
+  }
+
+  .botao-whatsapp {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+
+  footer {
+    font-size: 12px;
+  }
+}
